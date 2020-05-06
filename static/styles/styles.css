@@ -1,0 +1,56 @@
+.cover-img {
+    width: 100%;
+    opacity: 0.7;
+}
+
+body {
+     background-color: blanchedalmond;
+}
+
+.container {
+    position: relative;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title-color {
+    color: coral;
+}
+
+.title-card {
+    background-color: whitesmoke;
+}
+
+.centered-top {
+    position: relative;
+    left: 50%;
+}
+
+.nav-elem a {
+    font-size: 2rem;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-elem a:hover {
+    color: darkcyan;
+}
+
+table {
+    background-color: cornsilk;
+    font-size: 1.25rem;
+}
+
+.message-form {
+    background-color: cornsilk;
+}
+
+.tab-select {
+    text-decoration: underline;
+}
